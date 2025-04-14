@@ -1,7 +1,7 @@
 {
   "device": "surya",
   "rom_name": "Axion AOSP",
-  "version": "15.0",
+  "version": "v1.3 BETA",
   "build_type": "Official",
   "build_date": "2025-04-13",
   "gapps_size": 2260633175,
