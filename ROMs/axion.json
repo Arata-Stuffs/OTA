@@ -1,0 +1,16 @@
+{
+  "device": "surya",
+  "rom_name": "Axion AOSP",
+  "version": "15.0",
+  "build_type": "Official",
+  "build_date": "2025-04-13",
+  "gapps_size": 2260633175,
+  "gapps_dl": "https://sourceforge.net/projects/arata-labs/files/AxionAOSP/GMS/",
+  "vanilla_size": 1857935418,
+  "vanilla_dl": "https://sourceforge.net/projects/arata-labs/files/AxionAOSP/VANILLA/",
+  "changelog": "https://github.com/HinohArata/OTA/blob/main/changelogs/surya_axion.md",
+  "source_changelog": "https://github.com/AxionAOSP/axion_changelogs",
+  "flashing_guide": "https://github.com/HinohArata/OTA/blob/main/flashing_guides.md",
+  "banner_url": "https://i.imgur.com/a/B7uR40X.jpg",
+  "android_version": "Android15"
+}
