@@ -1,0 +1,14 @@
+{
+  "device": "surya",
+  "rom_name": "Project Infinity X",
+  "version": "2.7",
+  "build_type": "COMMUNITY",
+  "build_date": "2025-04-13",
+  "gapps_size": 2181391589,
+  "gapps_dl": "https://sourceforge.net/projects/arata-labs/files/Infinity-Project/GApps/",
+  "changelog": "https://github.com/HinohArata/OTA/blob/main/changelogs/surya_infinity.md",
+  "source_changelog": "https://t.me/ProjectInfinityX/1005",
+  "flashing_guide": "https://github.com/HinohArata/OTA/blob/main/flashing_guides.md",
+  "banner_url": "https://i.imgur.com/a/FverKcu.jpg",
+  "android_version": "Android15"
+}
